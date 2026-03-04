@@ -1,0 +1,7 @@
+requests==2.31.0
+dnspython==2.4.2
+python-whois==0.8.0
+phonenumbers==8.13.0
+colorama==0.4.6
+rich==13.7.0
+beautifulsoup4==4.12.2
